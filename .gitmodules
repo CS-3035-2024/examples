@@ -1,0 +1,3 @@
+[submodule "simplekit"]
+	path = simplekit
+	url = https://github.com/nonsequitoria/simplekit
