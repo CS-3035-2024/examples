@@ -11,7 +11,7 @@ import {
   SKTextfield,
   Layout,
   Settings,
-} from "simplekit/imperative-mode";
+} from "../simplekit/src/imperative-mode";
 
 // global debug flag to visualize box model dimensions
 // Settings.debug = true;

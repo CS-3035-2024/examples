@@ -7,7 +7,7 @@ import {
   setSKRoot,
   SKContainer,
   SKLabel,
-} from "simplekit/imperative-mode";
+} from "../simplekit/src/imperative-mode";
 
 // Creating a new container for the root element
 const root = new SKContainer();
