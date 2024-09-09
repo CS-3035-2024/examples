@@ -1,4 +1,3 @@
-# simplekit Template Project
+# Development Repo for Examples to keep them private until they are ready
 
-This project has been setup to provide a basic setup for new apps created with simplekit.
- 
+Develop our own stuff on a branch and put it to the main branch when it is ready to go to the public examples repo.
