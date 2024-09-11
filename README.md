@@ -6,7 +6,9 @@ Subdirectories contain each example.
 
 ## To run
 
+Do the following in a Terminal:
  - Clone the repo.
+   - `git clone https://github.com/CS-3035-2024/examples.git`
  - Install simplekit as a submodule
    - `git submodule init`
    - `git submodule update`
