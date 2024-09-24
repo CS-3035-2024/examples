@@ -1,3 +1,6 @@
+# private examples
+secret-examples/
+
 # VS Code workspaces
 *.code-workspace
 

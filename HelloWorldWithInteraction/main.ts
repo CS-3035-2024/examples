@@ -35,6 +35,8 @@ root.layoutMethod = Layout.makeCentredLayout();
 // try this too
 // root.layoutMethod = Layout.makeFillRowLayout();
 // panel.fillWidth = 1;
+console.log(root.widthLayout);
+
 panel.margin = 50;
 
 // label
@@ -62,7 +64,10 @@ hello.addEventListener("action", () => {
   const msg = name.text == "" ? "Enter a name!" : `Hello ${name.text}`;
   console.log(msg);
   outputLabel.text = msg;
+  console.log(root.widthLayout);
 });
+
+root.addEventListener("resize", (e) => {console.log(root.widthLayout)});
 
 // add them to panel
 panel.addChild(nameInputLabel);
