@@ -13,16 +13,17 @@ export class Model{
 
     set count(c: number){
        this._count = c;
-       this.NotifySubscribers();
+       this.notifySubscribers();
     }
 
 
     public addSubscriber(s: Subscriber): void{
         this.subscribers.push(s);
+        this.notifySubscribers();
     }
 
     
-    private NotifySubscribers(): void{
+    private notifySubscribers(): void{
         this.subscribers.forEach(subscriber => subscriber.update()); // Call update function for all subscribers
     }
 

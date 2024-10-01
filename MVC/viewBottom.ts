@@ -10,7 +10,7 @@ import { Subscriber } from "./subscriber";
 export class ViewBottom extends SKContainer implements Subscriber{
     
     private _model: Model;
-    randomizeButton: SKButton = new SKButton({ text: "Random" });
+    randomizeButton: SKButton = new SKButton({ text: "?" });
 
 
     constructor(props: SKElementProps){

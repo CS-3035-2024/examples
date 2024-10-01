@@ -36,7 +36,7 @@ bottomPanel.fill = "lightblue";
 
 
 // Create the button
-const randomButton = new SKButton({text:"Randomize"});
+const randomButton = new SKButton({text:"0"});
 
 
 // Add the event listner
