@@ -47,9 +47,9 @@ randomButton.addEventListener("action", () => {
     topPanel.clearChildren();
     let randomNumber = Math.floor(Math.random()*16) + 1
     for (let i = 0; i < randomNumber; i++){
-        const button = new SKLabel({width:panelWidth/4, height: panelWidth/4, text: (i+1).toString()});
-        button.fill = `hsl(${Math.random() * 360} 100% 50%)`;
-        topPanel.addChild(button);
+        const square = new SKLabel({width:panelWidth/4, height: panelWidth/4, text: (i+1).toString()});
+        square.fill = `hsl(${Math.random() * 360} 100% 50%)`;
+        topPanel.addChild(square);
     }
     randomButton.text = randomNumber.toString();
 });

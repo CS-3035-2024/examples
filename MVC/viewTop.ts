@@ -28,9 +28,9 @@ export class ViewTop extends SKContainer implements Subscriber{
         const elements = this._model.count;
         this.clearChildren();
         for (let i = 0; i < elements; i++){
-            const button = new SKLabel({width: 87.5, height: 87.5, text: (i+1).toString()});
-            button.fill = `hsl(${Math.random() * 360} 100% 50%)`;
-            this.addChild(button);
+            const square = new SKLabel({width: 87.5, height: 87.5, text: (i+1).toString()});
+            square.fill = `hsl(${Math.random() * 360} 100% 50%)`;
+            this.addChild(square);
         }
     }
 
