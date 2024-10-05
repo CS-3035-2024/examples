@@ -53,8 +53,6 @@ model.addSubscriber(bottomView);
 // Link view events to the controller
 bottomView.setButtonEvent(controller);
 
-
-
 root.addChild(panel);
 panel.addChild(topView);
 panel.addChild(bottomView);
