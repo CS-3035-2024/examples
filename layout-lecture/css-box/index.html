@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>css-box</title>
+    <style>
+      .box1 {
+        /* box model */
+        /* box-sizing: border-box; */
+        /* element "size" */
+        width: 125px;
+        height: 75px;
+        /* box model dimensions */
+        margin: 20px;
+        padding: 15px;
+        border: 5px solid black;
+        /* element fill */
+        background: lightgrey;
+      }
+      .box2 {
+        /* box model */
+        /* box-sizing: border-box; */
+        /* element "size" */
+        width: 125px;
+        height: 75px;
+        /* box model dimensions */
+        margin: 20px;
+        /* padding: 15px; */
+        border: 5px solid black;
+        /* element fill */
+        background: lightgrey;
+      }
+      /* usual reset */
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box1">Content1</div>
+    <div class="box2">Content2</div>
+  </body>
+</html>
