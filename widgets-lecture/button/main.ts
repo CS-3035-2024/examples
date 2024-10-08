@@ -3,7 +3,7 @@ import {
   setSKDrawCallback,
   setSKEventListener,
   SKMouseEvent,
-} from "simplekit/canvas-mode";
+} from "../../simplekit/src/canvas-mode";
 
 import { SKButton } from "./button.ts";
 

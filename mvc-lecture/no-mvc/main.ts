@@ -5,7 +5,7 @@ import {
   SKContainer,
   SKLabel,
   Layout,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 // data
 let counter = 0;

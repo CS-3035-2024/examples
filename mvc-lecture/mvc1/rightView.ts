@@ -2,7 +2,7 @@ import {
   SKContainer,
   SKLabel,
   Layout,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 // local imports
 import { Observer } from "./observer";

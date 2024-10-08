@@ -3,7 +3,7 @@ import {
   setSKRoot,
   SKContainer,
   Layout,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 // local imports
 import { Model } from "./model";

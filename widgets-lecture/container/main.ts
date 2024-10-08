@@ -1,7 +1,7 @@
 import {
   startSimpleKit,
   setSKDrawCallback,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 import { SKButton } from "../button/button";
 import { SKContainer } from "./container";

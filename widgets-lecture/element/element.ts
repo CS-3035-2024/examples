@@ -1,7 +1,8 @@
 // simple version SKElement
 // (version in SimpleKit has more features)
 
-import { insideHitTestRectangle } from "simplekit/utility";
+import { insideHitTestRectangle } from "../../simplekit/src/utility";
+
 
 const minElementSize = 32;
 

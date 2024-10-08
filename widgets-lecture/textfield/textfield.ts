@@ -1,7 +1,7 @@
 // simple version SKTextfield
 // (version in SimpleKit has more features)
 
-import { measureText } from "simplekit/utility";
+import { measureText } from "../../simplekit/src/utility";
 import { SKElement, SKElementProps, Style } from "../element";
 
 type SKTextfieldProps = SKElementProps & {

@@ -4,7 +4,7 @@ import {
   setSKEventListener,
   SKMouseEvent,
   SKKeyboardEvent,
-} from "simplekit/canvas-mode";
+} from "../../simplekit/src/canvas-mode";
 
 import { SKTextfield } from "./textfield.ts";
 

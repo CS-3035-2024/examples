@@ -1,7 +1,7 @@
 import {
   startSimpleKit,
   setSKDrawCallback,
-} from "simplekit/canvas-mode";
+} from "../../simplekit/src/canvas-mode";
 
 import { SKLabel } from "./label.ts";
 
