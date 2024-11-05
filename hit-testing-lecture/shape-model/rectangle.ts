@@ -29,7 +29,7 @@ export class Rectangle extends Shape {
   hitTest(mx: number, my: number) {
     let hit = false;
     if (this.isFilled) {
-      hit ||= insideHitTestRectangle(
+      hit = insideHitTestRectangle(
         mx,
         my,
         this.x,
