@@ -4,7 +4,7 @@ import {
   SKContainer,
   SKElement,
   SKMouseEvent,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 const debug = true;
 

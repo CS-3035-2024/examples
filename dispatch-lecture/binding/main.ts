@@ -4,7 +4,7 @@ import {
   setSKEventListener,
   SKMouseEvent,
   SKButton,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 const button = new SKButton({
   text: "Button",

@@ -6,7 +6,7 @@ import {
   setSKEventListener,
   SKMouseEvent,
   SKContainer,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 import { mouseDispatch } from "./dispatch-mouse";
 import { SKButtonDemo } from "./button";

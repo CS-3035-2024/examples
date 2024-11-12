@@ -2,7 +2,7 @@ import {
   SKMouseEvent,
   SKTextfield,
   SKTextfieldProps,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 import { requestKeyboardFocus } from "./dispatch-keyboard";
 

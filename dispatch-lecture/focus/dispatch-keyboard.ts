@@ -1,7 +1,7 @@
 import {
   SKElement,
   SKKeyboardEvent,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 const debug = true;
 

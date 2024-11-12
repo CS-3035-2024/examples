@@ -6,7 +6,7 @@ import {
   SKElement,
   SKButton,
   SKContainer,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 // this will be the "root" of the UI widget tree
 const blueContainer = new SKContainer({

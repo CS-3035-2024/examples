@@ -1,7 +1,7 @@
 // simple version SKContainer
 // (version in SimpleKit has more features)
 
-import { SKElement, SKElementProps } from "simplekit/imperative-mode";
+import { SKElement, SKElementProps } from "../../simplekit/src/imperative-mode";
 
 type SKContainerProps = SKElementProps & { fill?: string };
 

@@ -4,7 +4,7 @@ import {
   SKButton,
   SKTextfield,
   SKContainer,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 let counter = 0;
 

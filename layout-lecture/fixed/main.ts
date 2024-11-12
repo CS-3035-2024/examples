@@ -4,7 +4,7 @@ import {
   startSimpleKit,
   setSKRoot,
   Layout,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 // helper function to make a container
 function makeContainer(id: string, fill: string): SKContainer {

@@ -3,7 +3,7 @@ import {
   SKButtonProps,
   SKEvent,
   SKMouseEvent,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 import { requestMouseFocus } from "./dispatch-mouse";
 

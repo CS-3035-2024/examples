@@ -3,7 +3,7 @@ import {
   SKContainer,
   startSimpleKit,
   setSKRoot,
-} from "simplekit/imperative-mode";
+} from "../../simplekit/src/imperative-mode";
 
 // global debug flag
 // Settings.debug = false;

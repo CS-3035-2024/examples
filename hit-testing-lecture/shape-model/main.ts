@@ -6,7 +6,7 @@ import {
   setSKEventListener,
   startSimpleKit,
 } from "../../simplekit/src/canvas-mode";
-import { point } from "simplekit/utility";
+import { point } from "../../simplekit/src/utility";
 // local
 import { Shape } from "./shape";
 import { Rectangle } from "./rectangle";
