@@ -1,0 +1,1343 @@
+[
+    {
+        "id": 50,
+        "address": "898 Quail Hollow, Fredericton, NB",
+        "price": 484941,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "property_type": "Vacant Land",
+        "features": [],
+        "latitude": 45.95942,
+        "longitude": -66.61276,
+        "description": "A spacious lot ready for development in a quiet neighborhood. "
+    },
+    {
+        "id": 68,
+        "address": "896 Quail Hollow, Fredericton, NB",
+        "price": 236766,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Vacant Land",
+        "features": [
+        ],
+        "latitude": 45.97704,
+        "longitude": -66.64556,
+        "description": "A spacious lot ready for development in a quiet neighborhood. The tranquil waterfront location offers endless relaxation and beauty."
+    },
+    {
+        "id": 77,
+        "address": "677 Valley View Court, Fredericton, NB",
+        "price": 792718,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Vacant Land",
+        "features": [],
+        "latitude": 45.98713,
+        "longitude": -66.66861,
+        "description": "Build your vision on this beautiful plot, surrounded by natural beauty. "
+    },
+    {
+        "id": 95,
+        "address": "779 Sunset Street, Fredericton, NB",
+        "price": 719287,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "property_type": "Vacant Land",
+        "features": [],
+        "latitude": 45.99528,
+        "longitude": -66.62778,
+        "description": "Endless possibilities await on this prime piece of land. "
+    },
+    {
+        "id": 20,
+        "address": "771 Beaverbrook Avenue, Fredericton, NB",
+        "price": 738861,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Vacant Land",
+        "features": [
+        ],
+        "latitude": 45.98996,
+        "longitude": -66.63232,
+        "description": "A great opportunity to build your dream project on this well-located lot. Experience stunning waterfront views that will take your breath away."
+    },
+    {
+        "id": 96,
+        "address": "978 Kingfisher Way, Fredericton, NB",
+        "price": 395037,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "property_type": "Vacant Land",
+        "features": [],
+        "latitude": 45.9861,
+        "longitude": -66.63446,
+        "description": "Build your vision on this beautiful plot, surrounded by natural beauty. "
+    },
+    {
+        "id": 6,
+        "address": "452 Riverside Drive, Fredericton, NB",
+        "price": 707988,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Vacant Land",
+        "features": ["waterfront"],
+        "latitude": 45.98372,
+        "longitude": -66.62006,
+        "description": "A spacious lot ready for development in a quiet neighborhood. "
+    },
+    {
+        "id": 80,
+        "address": "948 Valley View Court, Fredericton, NB",
+        "price": 656527,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "property_type": "Vacant Land",
+        "features": [],
+        "latitude": 45.98901,
+        "longitude": -66.60207,
+        "description": "Build your vision on this beautiful plot, surrounded by natural beauty. "
+    },
+    {
+        "id": 26,
+        "address": "673 Willowbrook Avenue, Fredericton, NB",
+        "price": 537060,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Vacant Land",
+        "features": [
+        ],
+        "latitude": 45.98911,
+        "longitude": -66.67473,
+        "description": "Endless possibilities await on this prime piece of land. A rare opportunity to live by the water and enjoy serene views."
+    },
+    {
+        "id": 8,
+        "address": "668 Kingfisher Way, Fredericton, NB",
+        "price": 695953,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Vacant Land",
+        "features": ["waterfront"
+        ],
+        "latitude": 45.95254,
+        "longitude": -66.66867,
+        "description": "Endless possibilities await on this prime piece of land. Experience stunning waterfront views that will take your breath away."
+    },
+    {
+        "id": 39,
+        "address": "393 Sunset Street, Fredericton, NB",
+        "price": 830283,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Recreational",
+        "features": ["waterfront"],
+        "latitude": 45.9628,
+        "longitude": -66.66549,
+        "description": "An ideal property for relaxation, surrounded by breathtaking views of the river. "
+    },
+    {
+        "id": 83,
+        "address": "159 Orchard Boulevard, Fredericton, NB",
+        "price": 909856,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Recreational",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99059,
+        "longitude": -66.6457,
+        "description": "An ideal property for relaxation, surrounded by breathtaking landscapes. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 10,
+        "address": "54 Riverside Drive, Fredericton, NB",
+        "price": 818957,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Recreational",
+        "features": [
+            "pool",
+            "garage"
+        ],
+        "latitude": 45.98436,
+        "longitude": -66.67109,
+        "description": "A cozy cabin feel with all the amenities, perfect for nature lovers. Wake up to beautiful water views and the soothing sound of nature. The pool area is perfect for entertaining and family gatherings. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 71,
+        "address": "383 Zenith Street, Fredericton, NB",
+        "price": 536517,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "property_type": "Recreational",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99199,
+        "longitude": -66.62195,
+        "description": "A cozy cabin feel with all the amenities, perfect for nature lovers. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 78,
+        "address": "586 Willowbrook Avenue, Fredericton, NB",
+        "price": 354490,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "property_type": "Recreational",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98093,
+        "longitude": -66.6005,
+        "description": "A cozy cabin feel with all the amenities, perfect for nature lovers. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 34,
+        "address": "953 Sunset Street, Fredericton, NB",
+        "price": 306857,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "property_type": "Recreational",
+        "features": [],
+        "latitude": 45.97192,
+        "longitude": -66.60066,
+        "description": "A cozy cabin feel with all the amenities, perfect for nature lovers. "
+    },
+    {
+        "id": 89,
+        "address": "399 Juniper Trail, Fredericton, NB",
+        "price": 469701,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Recreational",
+        "features": [],
+        "latitude": 45.97535,
+        "longitude": -66.62391,
+        "description": "Escape to this recreational haven, where peace and nature meet. "
+    },
+    {
+        "id": 36,
+        "address": "589 Evergreen Terrace, Fredericton, NB",
+        "price": 612065,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Recreational",
+        "features": [
+            "pool",
+            "garage"
+        ],
+        "latitude": 45.95469,
+        "longitude": -66.64117,
+        "description": "An ideal property for relaxation, surrounded by breathtaking landscapes. The tranquil location offers endless relaxation and beauty. A well-maintained pool offers a refreshing retreat. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 5,
+        "address": "899 Dewberry Court, Fredericton, NB",
+        "price": 972312,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Recreational",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.95573,
+        "longitude": -66.6529,
+        "description": "Escape to this recreational haven, where peace and nature meet. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 19,
+        "address": "770 Zenith Street, Fredericton, NB",
+        "price": 381745,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "property_type": "Recreational",
+        "features": [],
+        "latitude": 45.98109,
+        "longitude": -66.68,
+        "description": "This recreational property offers a tranquil escape from the hustle and bustle. "
+    },
+    {
+        "id": 84,
+        "address": "916 Nighthawk Place, Fredericton, NB",
+        "price": 874461,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99513,
+        "longitude": -66.65568,
+        "description": "This condo combines comfort and style, perfect for modern living. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 30,
+        "address": "469 Yellowstone Drive, Fredericton, NB",
+        "price": 885577,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.93353,
+        "longitude": -66.67859,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 65,
+        "address": "578 Maple Ridge Road, Fredericton, NB",
+        "price": 852203,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.9686,
+        "longitude": -66.63734,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 4,
+        "address": "818 Zenith Street, Fredericton, NB",
+        "price": 176908,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.95782,
+        "longitude": -66.60792,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 46,
+        "address": "323 Laurel Lane, Fredericton, NB",
+        "price": 394896,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.96823,
+        "longitude": -66.63316,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 37,
+        "address": "582 Upland Road, Fredericton, NB",
+        "price": 916454,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.99477,
+        "longitude": -66.63737,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. "
+    },
+    {
+        "id": 85,
+        "address": "914 Zenith Street, Fredericton, NB",
+        "price": 580647,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99095,
+        "longitude": -66.64124,
+        "description": "A contemporary condo featuring sleek interiors and city views. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 88,
+        "address": "139 Laurel Lane, Fredericton, NB",
+        "price": 695815,
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.97708,
+        "longitude": -66.62456,
+        "description": "A vibrant living space designed for convenience and comfort in the city. "
+    },
+    {
+        "id": 72,
+        "address": "188 Upland Road, Fredericton, NB",
+        "price": 903471,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99025,
+        "longitude": -66.61269,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 45,
+        "address": "887 Valley View Court, Fredericton, NB",
+        "price": 145067,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.93891,
+        "longitude": -66.64324,
+        "description": "A vibrant living space designed for convenience and comfort in the city. "
+    },
+    {
+        "id": 28,
+        "address": "190 Zenith Street, Fredericton, NB",
+        "price": 105186,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.94877,
+        "longitude": -66.63031,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 55,
+        "address": "365 Sunset Street, Fredericton, NB",
+        "price": 161490,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99028,
+        "longitude": -66.66869,
+        "description": "A vibrant living space designed for convenience and comfort in the city. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 43,
+        "address": "197 Orchard Boulevard, Fredericton, NB",
+        "price": 101240,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage",
+            "waterfront"
+        ],
+        "latitude": 45.95411,
+        "longitude": -66.61498,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown and with a view of the water. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 32,
+        "address": "33 Chase Street, Fredericton, NB",
+        "price": 196525,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99197,
+        "longitude": -66.63576,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 64,
+        "address": "179 Quail Hollow, Fredericton, NB",
+        "price": 684157,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.98001,
+        "longitude": -66.60099,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. "
+    },
+    {
+        "id": 35,
+        "address": "129 Horizon Avenue, Fredericton, NB",
+        "price": 124064,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.99719,
+        "longitude": -66.65776,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. "
+    },
+    {
+        "id": 27,
+        "address": "696 Pinecone Path, Fredericton, NB",
+        "price": 447955,
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "pool",
+            "garage"
+        ],
+        "latitude": 45.9634,
+        "longitude": -66.61997,
+        "description": "This condo combines comfort and style, perfect for modern living. A rare opportunity to live by the water and enjoy serene views. Cool off in the private pool during warm summer days. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 66,
+        "address": "499 Xander Lane, Fredericton, NB",
+        "price": 360566,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage",
+            "waterfront"
+        ],
+        "latitude": 45.94792,
+        "longitude": -66.66142,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo with a view of the water. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 91,
+        "address": "76 Sunset Street, Fredericton, NB",
+        "price": 279411,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.94045,
+        "longitude": -66.66523,
+        "description": "This condo combines comfort and style, perfect for modern living. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 61,
+        "address": "865 Chase Street, Fredericton, NB",
+        "price": 119729,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.97606,
+        "longitude": -66.6422,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 12,
+        "address": "69 Thistle Circle, Fredericton, NB",
+        "price": 280610,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.95712,
+        "longitude": -66.6335,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. "
+    },
+    {
+        "id": 38,
+        "address": "529 Maple Ridge Road, Fredericton, NB",
+        "price": 789697,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": ["waterfront"],
+        "latitude": 45.94692,
+        "longitude": -66.65532,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance, and situated right on the river. "
+    },
+    {
+        "id": 62,
+        "address": "577 Chase Street, Fredericton, NB",
+        "price": 350612,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage",
+            "waterfront"
+        ],
+        "latitude": 45.94655,
+        "longitude": -66.6253,
+        "description": "A welcoming family home with a bright and open living space, with beautiful views of the river. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 22,
+        "address": "814 Quail Hollow, Fredericton, NB",
+        "price": 110440,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.93709,
+        "longitude": -66.6236,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. "
+    },
+    {
+        "id": 51,
+        "address": "204 Orchard Boulevard, Fredericton, NB",
+        "price": 359391,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.93691,
+        "longitude": -66.63452,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 16,
+        "address": "134 Evergreen Terrace, Fredericton, NB",
+        "price": 820072,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.94497,
+        "longitude": -66.67944,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 1,
+        "address": "988 Nighthawk Place, Fredericton, NB",
+        "price": 481249,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99156,
+        "longitude": -66.67608,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 40,
+        "address": "382 Evergreen Terrace, Fredericton, NB",
+        "price": 231401,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98929,
+        "longitude": -66.61406,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 42,
+        "address": "26 Pinecone Path, Fredericton, NB",
+        "price": 307423,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98318,
+        "longitude": -66.65607,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 29,
+        "address": "948 Juniper Trail, Fredericton, NB",
+        "price": 973282,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.95594,
+        "longitude": -66.63354,
+        "description": "This condo combines comfort and style, perfect for modern living. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 69,
+        "address": "156 Dewberry Court, Fredericton, NB",
+        "price": 824531,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [
+            "pool",
+            "garage"
+        ],
+        "latitude": 45.98118,
+        "longitude": -66.66712,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. Wake up to beautiful water views and the soothing sound of nature. Enjoy hours of relaxation and fun in your own backyard pool. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 18,
+        "address": "268 Horizon Avenue, Fredericton, NB",
+        "price": 589430,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "waterfront"
+        ],
+        "latitude": 45.96697,
+        "longitude": -66.60037,
+        "description": "Waterfront location! A modern home with a classic touch, ideal for families and entertaining guests. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 31,
+        "address": "327 Laurel Lane, Fredericton, NB",
+        "price": 367182,
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98657,
+        "longitude": -66.62668,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 73,
+        "address": "92 Quail Hollow, Fredericton, NB",
+        "price": 944480,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.97956,
+        "longitude": -66.6408,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 87,
+        "address": "590 Glenview Road, Fredericton, NB",
+        "price": 343174,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.93249,
+        "longitude": -66.61427,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 70,
+        "address": "484 Xander Lane, Fredericton, NB",
+        "price": 757137,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.97567,
+        "longitude": -66.67752,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. "
+    },
+    {
+        "id": 44,
+        "address": "827 Thistle Circle, Fredericton, NB",
+        "price": 544172,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "pool",
+            "garage"
+        ],
+        "latitude": 45.97506,
+        "longitude": -66.63593,
+        "description": "A contemporary condo featuring sleek interiors and city views. A sparkling pool adds to the charm and luxury of this home. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 100,
+        "address": "959 Orchard Boulevard, Fredericton, NB",
+        "price": 848227,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.97125,
+        "longitude": -66.62337,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. "
+    },
+    {
+        "id": 93,
+        "address": "619 Upland Road, Fredericton, NB",
+        "price": 339465,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.93317,
+        "longitude": -66.62902,
+        "description": "A vibrant living space designed for convenience and comfort in the city. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 52,
+        "address": "650 Ironwood Street, Fredericton, NB",
+        "price": 595313,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98119,
+        "longitude": -66.6603,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 94,
+        "address": "369 Chase Street, Fredericton, NB",
+        "price": 332924,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.97824,
+        "longitude": -66.61042,
+        "description": "A welcoming family home with a bright and open living space. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 67,
+        "address": "935 Horizon Avenue, Fredericton, NB",
+        "price": 694247,
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98191,
+        "longitude": -66.62515,
+        "description": "A vibrant living space designed for convenience and comfort in the city. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 56,
+        "address": "697 Glenview Road, Fredericton, NB",
+        "price": 272099,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.94784,
+        "longitude": -66.67028,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 99,
+        "address": "787 Evergreen Terrace, Fredericton, NB",
+        "price": 634804,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.97366,
+        "longitude": -66.61806,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. "
+    },
+    {
+        "id": 63,
+        "address": "984 Foxglove Drive, Fredericton, NB",
+        "price": 906328,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99986,
+        "longitude": -66.61049,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 9,
+        "address": "503 Thistle Circle, Fredericton, NB",
+        "price": 577786,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.95178,
+        "longitude": -66.63489,
+        "description": "A modern home with a classic touch, ideal for families and entertaining guests. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 49,
+        "address": "283 Ironwood Street, Fredericton, NB",
+        "price": 605161,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage",
+            "waterfront"
+        ],
+        "latitude": 45.94405,
+        "longitude": -66.66769,
+        "description": "A vibrant living space designed for convenience of the city with a view of nature and the river. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 81,
+        "address": "619 Foxglove Drive, Fredericton, NB",
+        "price": 365438,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99391,
+        "longitude": -66.65895,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 54,
+        "address": "583 Zenith Street, Fredericton, NB",
+        "price": 534375,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.94378,
+        "longitude": -66.66972,
+        "description": "A vibrant living space designed for convenience and comfort in the city. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 11,
+        "address": "58 Xander Lane, Fredericton, NB",
+        "price": 499484,
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.98999,
+        "longitude": -66.63002,
+        "description": "A contemporary condo featuring sleek interiors and city views. "
+    },
+    {
+        "id": 7,
+        "address": "832 Thistle Circle, Fredericton, NB",
+        "price": 458351,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.9885,
+        "longitude": -66.61935,
+        "description": "A vibrant living space designed for convenience and comfort in the city. "
+    },
+    {
+        "id": 58,
+        "address": "189 Riverside Drive, Fredericton, NB",
+        "price": 437940,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99092,
+        "longitude": -66.60995,
+        "description": "A welcoming family home with a bright and open living space. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 79,
+        "address": "126 Juniper Trail, Fredericton, NB",
+        "price": 712010,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage",
+            "waterfront"    
+        ],
+        "latitude": 45.95416,
+        "longitude": -66.60362,
+        "description": "Enjoy a spectacular view of the river with this centrally located condo. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 57,
+        "address": "282 Beaverbrook Avenue, Fredericton, NB",
+        "price": 350210,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.96009,
+        "longitude": -66.61461,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 2,
+        "address": "644 Orchard Boulevard, Fredericton, NB",
+        "price": 889874,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.94663,
+        "longitude": -66.66298,
+        "description": "A contemporary condo featuring sleek interiors and city views. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 21,
+        "address": "483 Nighthawk Place, Fredericton, NB",
+        "price": 475942,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.97626,
+        "longitude": -66.66442,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 24,
+        "address": "746 Foxglove Drive, Fredericton, NB",
+        "price": 738490,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.98988,
+        "longitude": -66.64389,
+        "description": "This delightful residence offers comfort and convenience in every room. "
+    },
+    {
+        "id": 47,
+        "address": "620 Laurel Lane, Fredericton, NB",
+        "price": 350273,
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.99327,
+        "longitude": -66.66605,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. The garage offers ample room for vehicles and extra storage."
+    },
+    {
+        "id": 14,
+        "address": "239 Glenview Road, Fredericton, NB",
+        "price": 629250,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98021,
+        "longitude": -66.60654,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 33,
+        "address": "133 Evergreen Terrace, Fredericton, NB",
+        "price": 129728,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.97394,
+        "longitude": -66.67471,
+        "description": "A modern home with a classic touch, ideal for families and entertaining guests. "
+    },
+    {
+        "id": 75,
+        "address": "228 Glenview Road, Fredericton, NB",
+        "price": 305706,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.98476,
+        "longitude": -66.66979,
+        "description": "This delightful residence offers comfort and convenience in every room. "
+    },
+    {
+        "id": 90,
+        "address": "62 Kingfisher Way, Fredericton, NB",
+        "price": 367300,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.9381,
+        "longitude": -66.60507,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. "
+    },
+    {
+        "id": 59,
+        "address": "392 Orchard Boulevard, Fredericton, NB",
+        "price": 654224,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.93322,
+        "longitude": -66.6798,
+        "description": "A welcoming family home with a bright and open living space. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 76,
+        "address": "864 Sunset Street, Fredericton, NB",
+        "price": 767143,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.95355,
+        "longitude": -66.64045,
+        "description": "A welcoming family home with a bright and open living space. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 53,
+        "address": "876 Maple Ridge Road, Fredericton, NB",
+        "price": 291447,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.93972,
+        "longitude": -66.66718,
+        "description": "A contemporary condo featuring sleek interiors and city views. "
+    },
+    {
+        "id": 82,
+        "address": "95 Laurel Lane, Fredericton, NB",
+        "price": 266606,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.95695,
+        "longitude": -66.61117,
+        "description": "A contemporary condo featuring sleek interiors and city views. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 97,
+        "address": "3 Nighthawk Place, Fredericton, NB",
+        "price": 354052,
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.97042,
+        "longitude": -66.616,
+        "description": "A modern home with a classic touch, ideal for families and entertaining guests. "
+    },
+    {
+        "id": 13,
+        "address": "85 Dewberry Court, Fredericton, NB",
+        "price": 466615,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.95672,
+        "longitude": -66.65311,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. Includes an attached garage for your convenience."
+    },
+    {
+        "id": 48,
+        "address": "769 Evergreen Terrace, Fredericton, NB",
+        "price": 726959,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.97162,
+        "longitude": -66.61078,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 23,
+        "address": "11 Foxglove Drive, Fredericton, NB",
+        "price": 987324,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.93336,
+        "longitude": -66.62321,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this centrally located condo. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 98,
+        "address": "932 Quail Hollow, Fredericton, NB",
+        "price": 989478,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Condo",
+        "features": [
+            "pool",
+            "garage"
+        ],
+        "latitude": 45.94051,
+        "longitude": -66.66253,
+        "description": "This condo combines comfort and style, perfect for modern living. Wake up to beautiful water views and the soothing sound of nature. Cool off in the private pool during warm summer days. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 60,
+        "address": "330 Laurel Lane, Fredericton, NB",
+        "price": 291546,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.96048,
+        "longitude": -66.63457,
+        "description": "This condo combines comfort and style, perfect for modern living. A functional garage space adds great utility to this property."
+    },
+    {
+        "id": 86,
+        "address": "518 Horizon Avenue, Fredericton, NB",
+        "price": 150389,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.9654,
+        "longitude": -66.64551,
+        "description": "A contemporary condo featuring sleek interiors and city views. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 92,
+        "address": "372 Yellowstone Drive, Fredericton, NB",
+        "price": 126562,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "property_type": "Condo",
+        "features": ["waterfront"],
+        "latitude": 45.9498,
+        "longitude": -66.60856,
+        "description": "Enjoy a relaxed, easy-care lifestyle in this cosy condo, with river views."
+    },
+    {
+        "id": 3,
+        "address": "187 Nighthawk Place, Fredericton, NB",
+        "price": 565728,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.98216,
+        "longitude": -66.61049,
+        "description": "A contemporary condo featuring sleek interiors and city views. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 25,
+        "address": "463 Juniper Trail, Fredericton, NB",
+        "price": 850806,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [],
+        "latitude": 45.98004,
+        "longitude": -66.67926,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. "
+    },
+    {
+        "id": 41,
+        "address": "623 Nighthawk Place, Fredericton, NB",
+        "price": 661234,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Condo",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.97991,
+        "longitude": -66.64187,
+        "description": "Experience urban living in this stylish condo, just minutes from downtown. A large garage provides plenty of storage and work space."
+    },
+    {
+        "id": 17,
+        "address": "974 Horizon Avenue, Fredericton, NB",
+        "price": 382997,
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": [
+            "garage"
+        ],
+        "latitude": 45.96531,
+        "longitude": -66.62523,
+        "description": "This charming residence boasts a spacious layout with an inviting ambiance. Perfect for car enthusiasts, with a spacious garage included."
+    },
+    {
+        "id": 15,
+        "address": "389 Quail Hollow, Fredericton, NB",
+        "price": 685380,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "property_type": "Residential",
+        "features": [],
+        "latitude": 45.98062,
+        "longitude": -66.60208,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. "
+    },
+    {
+        "id": 74,
+        "address": "156 Quail Hollow, Fredericton, NB",
+        "price": 771060,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "property_type": "Residential",
+        "features": ["waterfront"],
+        "latitude": 45.94431,
+        "longitude": -66.61704,
+        "description": "Nestled in a friendly neighborhood, this home is perfect for family gatherings. After dinner, hit the water with a private dock on the river."
+    }
+]
