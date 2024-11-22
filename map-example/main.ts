@@ -1,4 +1,4 @@
-import { SKEvent, SKMouseEvent } from "simplekit/imperative-mode";
+import { SKEvent, SKMouseEvent } from "../simplekit/src/imperative-mode";
 import {
   startSimpleKit,
   SKContainer,

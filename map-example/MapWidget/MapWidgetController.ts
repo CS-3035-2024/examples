@@ -1,4 +1,4 @@
-import { setSKEventListener, SKEvent } from "simplekit/imperative-mode";
+import { setSKEventListener, SKEvent } from "../../simplekit/src/imperative-mode";
 import { MapWidget, MapWidgetModel } from ".";
 
 export class MapWidgetController {

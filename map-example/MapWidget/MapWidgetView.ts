@@ -70,7 +70,7 @@ export class MapWidgetView {
     if (this._map.border) {
       gc.strokeStyle = this._map.border;
       gc.lineWidth = 1;
-      gc.strokeRect(this._map.x, this._map.y, this._map.width, this._map.height);
+      gc.strokeRect(this._map.x, this._map.y, this._map.widthBasis, this._map.heightBasis);
     }
     gc.restore();
   }
